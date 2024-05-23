@@ -103,11 +103,11 @@ export const HeroParallax = ({
 
 export const Header = () => {
   return (
-    <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 -top-24">
-      <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
+    <div className="max-w-7xl relative mx-auto md:py-20 md:py-40 px-4 w-full  left-0 -top-24">
+      <h1 className="text-center md:text-left text-5xl md:text-7xl font-bold dark:text-white">
         Representamos empresas <br /> en todo Chile
       </h1>
-      <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
+      <p className="text-center md:text-left text-2xl md:max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
         Somos una empresa dedicada a la representación, comercialización y
         gestión comercial de distintos productos y servicios. En nuestro quinto
         año de consolidación, nos hemos fijado como objetivo estar entre los

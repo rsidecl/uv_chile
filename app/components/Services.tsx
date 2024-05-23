@@ -87,7 +87,7 @@ const content = [
 export function StickyScrollRevealDemo() {
   return (
     <div className="pb-12 pt-0 text-white">
-      <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
+      <h1 className="text-center md:text-left text-3xl md:text-7xl font-bold dark:text-white">
         Conoce Nuestros
         <br /> Servicios
       </h1>

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+import { Onest } from "next/font/google";
 import "./globals.css";
 
-const inter = Roboto({ subsets: ["latin"], weight: "100" });
+const inter = Onest({ subsets: ["latin"], weight: "100" });
 
 export const metadata: Metadata = {
   title: "UV Chile",
